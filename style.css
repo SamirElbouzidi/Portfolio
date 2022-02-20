@@ -1,0 +1,45 @@
+#box01{
+display: flex;
+width: 80%;
+margin: 0 auto;
+justify-content: space-around;
+
+}
+
+#enf01{
+
+    width: 40%;
+
+}
+
+#enf02{
+
+    width: 40%;
+
+ 
+}
+
+#enf01 form{
+
+    border: 1px solid black;
+    padding: 20px;
+    
+}
+
+
+#enf01 form input,#enf01 form  textarea{
+
+    width: 80%;
+}
+
+#linkedin{
+    color: black;
+  
+}
+
+svg{
+
+    color: black;
+    margin-top: 8px;
+    
+}
